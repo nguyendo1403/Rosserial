@@ -1,0 +1,8 @@
+../Core/Library/FreeModbus/portserial_m.c:16:6:xMBMasterPortSerialInit	24	static
+../Core/Library/FreeModbus/portserial_m.c:23:6:vMBMasterPortSerialEnable	16	static
+../Core/Library/FreeModbus/portserial_m.c:45:6:vMBMasterPortClose	8	static
+../Core/Library/FreeModbus/portserial_m.c:51:6:xMBMasterPortSerialPutBytes	16	static
+../Core/Library/FreeModbus/portserial_m.c:57:6:xMBMasterPortSerialPutByte	16	static
+../Core/Library/FreeModbus/portserial_m.c:63:6:xMBMasterPortSerialGetByte	16	static
+../Core/Library/FreeModbus/portserial_m.c:69:6:HAL_UART_RxCpltCallback2	16	static
+../Core/Library/FreeModbus/portserial_m.c:78:6:HAL_UART_TxCpltCallback2	16	static

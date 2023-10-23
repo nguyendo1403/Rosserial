@@ -1,0 +1,6 @@
+../FreeModbus/porttimer_m.c:14:6:xMBMasterPortTimersInit	16	static
+../FreeModbus/porttimer_m.c:21:6:vMBMasterPortTimersT35Enable	8	static
+../FreeModbus/porttimer_m.c:28:6:vMBMasterPortTimersConvertDelayEnable	8	static
+../FreeModbus/porttimer_m.c:33:6:vMBMasterPortTimersRespondTimeoutEnable	8	static
+../FreeModbus/porttimer_m.c:38:6:vMBMasterPortTimersDisable	8	static
+../FreeModbus/porttimer_m.c:43:6:HAL_TIM_PeriodElapsedCallback	16	static

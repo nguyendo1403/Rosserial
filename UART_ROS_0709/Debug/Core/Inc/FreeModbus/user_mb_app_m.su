@@ -1,0 +1,4 @@
+../Core/Inc/FreeModbus/user_mb_app_m.c:47:14:eMBMasterRegInputCB	32	static
+../Core/Inc/FreeModbus/user_mb_app_m.c:97:14:eMBMasterRegHoldingCB	24	static
+../Core/Inc/FreeModbus/user_mb_app_m.c:164:14:eMBMasterRegCoilsCB	24	static
+../Core/Inc/FreeModbus/user_mb_app_m.c:246:14:eMBMasterRegDiscreteCB	48	static
